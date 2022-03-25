@@ -10,7 +10,8 @@
 
 <h3><u>AlexNet</u></h3>
 
-    • It consists of 5 convolutional(CONV) layers and 3 FC layers. And here ReLU is used as activation function.
+    • It consists of 5 convolutional(CONV) layers and 3 FC layers. 
+      And here ReLU is used as activation function.
     • It accepts input of size 227x227 of 3 channels (i.e 227x227x3)
     • Gives output of size 1000x1
     • More number of trainable parameters
@@ -83,4 +84,4 @@ The advantage of adding this type of skip connection is because if any layer hur
 
 <br />
 
-<small>More to be added soon.. !!</soon>
+<small>More to be added .. !!</small>
